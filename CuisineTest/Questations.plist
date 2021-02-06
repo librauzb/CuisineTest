@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>correctAnswer</key>
+	<array>
+		<string>3</string>
+		<string>1</string>
+		<string>4</string>
+		<string>4</string>
+		<string>2</string>
+		<string>3</string>
+		<string>1</string>
+		<string>1</string>
+		<string>3</string>
+		<string>2</string>
+		<string>2</string>
+		<string>3</string>
+		<string>1</string>
+		<string>4</string>
+		<string>3</string>
+		<string>3</string>
+		<string>2</string>
+		<string>1</string>
+		<string>1</string>
+		<string>2</string>
+		<string>4</string>
+		<string>4</string>
+		<string>3</string>
+		<string>2</string>
+		<string>4</string>
+		<string>3</string>
+		<string>1</string>
+		<string>4</string>
+		<string>2</string>
+		<string>1</string>
+	</array>
+	<key>optionA</key>
+	<array>
+		<string>Japan</string>
+		<string>Colombia</string>
+		<string>Egypt</string>
+		<string>UAE</string>
+		<string>Bahamas</string>
+		<string>Canada</string>
+		<string>Turkey</string>
+		<string>Trinidad and Tobago</string>
+		<string>North Korea</string>
+		<string>Indonesia</string>
+		<string>Uzbekistan</string>
+		<string>Italy</string>
+		<string>Georgia</string>
+		<string>UAE</string>
+		<string>Iceland</string>
+		<string>Zimbabwe</string>
+		<string>Ururguay</string>
+		<string>Chile</string>
+		<string>Russia</string>
+		<string>France</string>
+		<string>Sweden</string>
+		<string>Saudi Arabia</string>
+		<string>Iceland</string>
+		<string>UAE</string>
+		<string>Hungary</string>
+		<string>Bangladesh</string>
+		<string>Czech Republic</string>
+		<string>New Zealand</string>
+		<string>Egypt</string>
+		<string>Spain</string>
+	</array>
+	<key>optionB</key>
+	<array>
+		<string>Bhutan</string>
+		<string>Uruguay</string>
+		<string>Madagaskar</string>
+		<string>Madagaskar</string>
+		<string>Cape Verde</string>
+		<string>Brasil</string>
+		<string>Azerbaijan</string>
+		<string>Bahamas</string>
+		<string>South Korea</string>
+		<string>Bhutan</string>
+		<string>Egypt</string>
+		<string>France</string>
+		<string>Ukraine</string>
+		<string>Qatar</string>
+		<string>Norway</string>
+		<string>Tanzania</string>
+		<string>Venezuela</string>
+		<string>Venezuela</string>
+		<string>Ukraine</string>
+		<string>Italy</string>
+		<string>Germany</string>
+		<string>Iran</string>
+		<string>Norway</string>
+		<string>Saudi Arabia</string>
+		<string>Poland</string>
+		<string>Bhutan</string>
+		<string>Poland</string>
+		<string>Australia</string>
+		<string>Senegal</string>
+		<string>Portugal</string>
+	</array>
+	<key>optionC</key>
+	<array>
+		<string>Cambodia</string>
+		<string>Brasil</string>
+		<string>Tanzania</string>
+		<string>Djibouti</string>
+		<string>Mexico</string>
+		<string>Uruguay</string>
+		<string>Grorgia</string>
+		<string>Indonesia</string>
+		<string>China</string>
+		<string>Bangladesh</string>
+		<string>Qatar</string>
+		<string>USA</string>
+		<string>Azerbaijan</string>
+		<string>Iran</string>
+		<string>Belgium</string>
+		<string>Cameroon</string>
+		<string>Brasil</string>
+		<string>Argentina</string>
+		<string>Uzbekistan</string>
+		<string>Portugal</string>
+		<string>Belgium</string>
+		<string>Syria</string>
+		<string>Switzerland</string>
+		<string>Iraq</string>
+		<string>Austria</string>
+		<string>Japan</string>
+		<string>Ukraine</string>
+		<string>Austria</string>
+		<string>Morocco</string>
+		<string>France</string>
+	</array>
+	<key>optionD</key>
+	<array>
+		<string>China</string>
+		<string>Argentina</string>
+		<string>Ghana</string>
+		<string>South Africa</string>
+		<string>Salvador</string>
+		<string>Argentina</string>
+		<string>Ukraine</string>
+		<string>Cape Verde</string>
+		<string>Japan</string>
+		<string>India</string>
+		<string>Turkmenistan</string>
+		<string>Mexico</string>
+		<string>Kazakhstan</string>
+		<string>Israel</string>
+		<string>Great Britain</string>
+		<string>Jamaica</string>
+		<string>Chile</string>
+		<string>Bahamas</string>
+		<string>Mongolia</string>
+		<string>Spain</string>
+		<string>France</string>
+		<string>Iraq</string>
+		<string>Sweden</string>
+		<string>Syria</string>
+		<string>Germany</string>
+		<string>China</string>
+		<string>Bulgaria</string>
+		<string>Albania</string>
+		<string>Sudan</string>
+		<string>Germany</string>
+	</array>
+	<key>questationText</key>
+	<array>
+		<string>Amok trey also known as amok trei or fish amok, literally meaning &apos;steam cooked fish&apos;. It involves fish being coated in coconut milk with kroeung and steamed in banana leaves.</string>
+		<string>In a traditional bandeja paisa: red beans cooked with pork, white rice, ground meat, chicharrón, fried egg, plantain, chorizo, arepa, hogao sauce, morcilla, avocado and lemon.</string>
+		<string>Banku is cooked by a proportionate mixture of fermented corn and cassava dough in hot water into a smooth, whitish paste, served with soup, stew or a pepper sauce with fish.</string>
+		<string>Bobotie is a well-known dish consisting of spiced minced meat baked with an egg-based topping.</string>
+		<string>Cachupa is a slow cooked stew of corn, beans, cassava, sweet potato, fish or meat, and often morcela. Referred to as the country&apos;s national dish, each island has its own regional variation.</string>
+		<string>Chivito is a thin slice of tender cooked beef steak, with mozzarella, tomatoes, mayonnaise, black or green olives, and commonly also bacon, fried or hard-boiled eggs and ham.</string>
+		<string>Doner kebab is made of meat cooked on a vertical rotisserie. Seasoned meat stacked in the shape of an inverted cone is turned slowly on the rotisserie, next to a vertical cooking element.</string>
+		<string>Doubles is a common street food. Doubles are made with two baras (flat fried dough) and filled with curry channa (curried chickpeas) and various chutneys.</string>
+		<string>Ducks bred. The meat is often eaten with spring onion, cucumber and sweet bean sauce with pancakes rolled around the fillings.</string>
+		<string>Ema datshi is recognized as made from chili peppers and cheese; &quot;ema&quot; means &quot;chili&quot; and &quot;datshi&quot; means &quot;cheese&quot;. Different varieties of chilies may be used: green chili, red chili, and/or white chili.</string>
+		<string>Ful medames is a stew of cooked fava beans served with vegetable oil, cumin with chopped parsley, garlic, onion, lemon juice, chili pepper and other vegetable, herb and spice ingredients.</string>
+		<string>A hamburger is a sandwich consisting of one or more cooked patties of ground meat, usually beef, placed inside a sliced bread roll or bun. The patty may be pan fried, grilled, smoked or flame broiled.</string>
+		<string>Khachapuri is a dish of cheese-filled bread. The bread is leavened, usually with cheese in the middle and a crust which is ripped off and used to dip in the cheese.</string>
+		<string>Mixed grill consists of chicken hearts, spleens and liver mixed with bits of lamb cooked on a flat grill, seasoned with onion, garlic, black pepper, cumin, turmeric, olive oil and coriander.</string>
+		<string>Moules-frites  is a main dish of mussels and fries. Ingredients: extra-virgin olive oil, shallots, garlic, white wine, Kosher salt and freshly cracked black pepper, mussels, creme fraiche and etc.</string>
+		<string>Ndolé is a dish consisting of stewed nuts, bitter leaves and fish or beef. The dish may also contain shrimp or prawns. It is traditionally eaten with plantain, bobolo.</string>
+		<string>Pabellón criollo is a traditional dish, the local version of the rice and beans combination. It is a plate of rice, shredded beef in stew and stewed black beans.</string>
+		<string>Pastel de choclo is a dish based on sweetcorn or choclo. The filling usually contains ground beef, chicken, raisins, black olives, onions or slices of hard boiled egg.</string>
+		<string>Pelmeni are dumplings that consist of a filling wrapped in thin, unleavened dough.</string>
+		<string>Pizza consists of a usually round, flattened base of leavened wheat-based dough topped with tomatoes, cheese, and often various other ingredients baked at a high temperature.</string>
+		<string>Pot-au-feu (&quot;pot on the fire&quot;) is a beef stew. According to the chef Raymond Blanc, pot-au-feu is &quot;the quintessence of family cuisine; it is the most celebrated dish.</string>
+		<string>Quzi also called qoozi or ghozi is a rice based dish popular in the Arab states of the Persian Gulf. It is served with very slow cooked lamb, roasted nuts, raisins and served over rice.</string>
+		<string>Rösti or rööschti is a dish consisting mainly of potatoes, in the style of a fritter. It is served to accompany other dishes such as Spinat und Spiegelei, cervelas or Fleischkäse.</string>
+		<string>Saleeg is a white-rice dish, cooked with broth (chicken or other meat) and milk. Some people say that it tastes like the Italian risotto. It is usually eaten during traditional celebrations.</string>
+		<string>Stollen is a fruit bread of nuts, spices, and dried or candied fruit, coated with powdered sugar or icing sugar. It is a traditional bread eaten during the Christmas season.</string>
+		<string>Sushi is a dish of prepared vinegared rice , usually with some sugar and salt, accompanying a variety of ingredients, such as seafood, vegetables, and occasionally tropical fruits.</string>
+		<string>Svíčková is a meat dish . It is sirloin steak prepared with vegetables (carrots, parsley root, celeriac and onion), spiced with black pepper, allspice, bay leaf and thyme, and boiled with double cream.</string>
+		<string>Tavë kosi (&quot;soured milk casserole&quot;) is a dish of lamb and rice baked with a mixture of yogurt and eggs (replacing the original soured milk) added to a roux.</string>
+		<string>Tiep or thieb is a traditional dish. Meat and additional ingredients often include onions, carrots, cabbage, cassava, hot pepper, lime and peanut oil, and Maggi cubes.</string>
+		<string>Tortilla de patatas is an omelette made with eggs and potatoes, optionally including onion. It is often served at room temperature as a tapa.</string>
+	</array>
+	<key>questationImage</key>
+	<array>
+		<string>cambodia</string>
+		<string>colombia</string>
+		<string>ghana</string>
+		<string>southAfrica</string>
+		<string>capeVerde</string>
+		<string>uruguay</string>
+		<string>turkey</string>
+		<string>trinidadAndTobago</string>
+		<string>china</string>
+		<string>bhutan</string>
+		<string>egypt</string>
+		<string>usa</string>
+		<string>georgia</string>
+		<string>israil</string>
+		<string>belg</string>
+		<string>cameroon</string>
+		<string>venezuela</string>
+		<string>chile</string>
+		<string>rus</string>
+		<string>italy</string>
+		<string>france</string>
+		<string>iraq</string>
+		<string>swiss</string>
+		<string>saudi</string>
+		<string>germany</string>
+		<string>japan</string>
+		<string>czech</string>
+		<string>alban</string>
+		<string>senegal</string>
+		<string>spain</string>
+	</array>
+</dict>
+</plist>
